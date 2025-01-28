@@ -125,7 +125,4 @@ eCommerce_Analysis_Project/
 - Incorporate time-series analysis for better sales forecasting.
 - Explore customer churn prediction using transactional and profile data.
 
----
 
-## **License**
-This project is licensed under the [MIT License](LICENSE).
