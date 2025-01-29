@@ -1,4 +1,4 @@
-# **eCommerce Transactions Analysis Project**
+# **Transactions Analysis Project**
 
 This project involves exploratory data analysis (EDA), building a Lookalike Model, and performing customer segmentation using an eCommerce transactions dataset. The goal is to derive actionable business insights, build predictive models, and group customers into meaningful segments.
 
